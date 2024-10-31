@@ -23,13 +23,6 @@ CRUDに基づいた商品管理Webアプリケーション。
 |  更新画面  |![更新](https://github.com/user-attachments/assets/b299a7be-a6ee-4501-b4d8-308facbbed18) | ラジオボタンで選択された商品の変更ができます <br> [updateShohin.jsp](shohinKanri_28/src/main/webapp/WEB-INF/jsp/updateShohin.jsp)|
 |  削除画面  |![削除](https://github.com/user-attachments/assets/972cb610-5028-47b9-8206-ad4be386bc12) | ラジオボタンで選択された商品の削除ができます |
 
-## コード遷移
-1. [savlet](shohinKanri_28/src/main/java/servlet) <br>
-  
-2. [model](shohinKanri_28/src/main/java/model) <br>
-・[ShohinLogic.java](shohinKanri_28/src/main/java/model/ShohinLogic.java)
-・
-
 
 ## 開発の動機
  授業の一環としてこのアプリケーションを開発しました。CRUDに基づいた機能の作成を経験できました。
